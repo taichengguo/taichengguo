@@ -7,7 +7,7 @@ I'm Taicheng Guo
 
 Besides Open-Sourcing, I also enjoy AI Competitions:
 - KDD Cup (2nd place)
-- NeurIPS Optimization Challenge. (2nd place, warm-start track)
+- NeurIPS Optimization Challenge. (2nd place, warm-start setting)
 - Kaggle Arabic Sentiment Analysis. (5th place)
 - IEEE Computer Society Global Student Challenge. (1st place)
 

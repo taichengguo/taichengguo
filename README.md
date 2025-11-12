@@ -5,6 +5,12 @@ I'm Taicheng Guo
 - Aim to build Fundamental & Novel & System things than publishing papers
 - Limit to (at most) one first-author paper per year
 
+Besides Open-Sourcing, I also enjoy AI Competitions:
+- KDD Cup (2nd place)
+- NeurIPS Optimization Challenge. (2nd place, warm-start track)
+- Kaggle Arabic Sentiment Analysis. (5th place)
+- IEEE Computer Society Global Student Challenge. (1st place)
+
 <!--
 **taichengguo/taichengguo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

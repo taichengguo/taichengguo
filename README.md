@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm Taicheng Guo
-- An engineer than a researcher
+- An Engineer than a Researcher
 - Aim to build Fundamental & Novel & System things than publishing papers
 
 <!--

@@ -3,6 +3,7 @@
 I'm Taicheng Guo
 - An Engineer than a Researcher
 - Aim to build Fundamental & Novel & System things than publishing papers
+- Limit to (at most) one first-author paper per year
 
 <!--
 **taichengguo/taichengguo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

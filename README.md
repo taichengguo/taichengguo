@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Taicheng Guo
+- An engineer than a researcher
+- Aim to build Fundamental & Novel & System things than publishing papers
+
 <!--
 **taichengguo/taichengguo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

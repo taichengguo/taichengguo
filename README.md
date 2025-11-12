@@ -2,7 +2,7 @@
 
 I'm Taicheng Guo
 - An Engineer than a Researcher
-- Aim to build Fundamental & Novel & System things for {Long-Horizon LLM Agent} than publishing papers
+- Aim to build Fundamental & Novel & System things for {Long-Horizon LLM Agent Training/Inference} than publishing papers
 - Limit to (at most) one first-author paper per year
 
 Besides Open-Sourcing, I also enjoy AI Competitions:

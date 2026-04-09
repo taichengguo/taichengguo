@@ -3,7 +3,7 @@
 I'm Taicheng Guo
 - A research engineer than a researcher
 - Aim to build Fundamental & Novel & System things for Long-Horizon LLM Agent Training, Code Intelligence, and Autoresearch
-- Limit to (at most) one first-author paper per year
+- Limit to < 2  first-author paper per year
 
 Besides Open-Sourcing, I also enjoy AI Competitions:
 - KDD Cup (2nd place)

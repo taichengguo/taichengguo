@@ -6,9 +6,10 @@ I'm Taicheng Guo
 - Limit to < 2  first-author paper per year
 
 Besides Open-Sourcing, I also enjoy AI Competitions:
-- KDD Cup (2nd place)
+- KDD Cup (2nd place) (1000$)
 - NeurIPS AutoML Optimization Challenge. (2nd place, warm-start setting)
 - Kaggle Sentiment Analysis. (5th place)
+- IEEE Computer Society Global Challenge. Ranked 1st place (1000$).
 
 <!--
 **taichengguo/taichengguo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

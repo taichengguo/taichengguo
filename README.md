@@ -2,7 +2,7 @@
 
 I'm Taicheng Guo
 - A research engineer than a researcher
-- Aim to build Fundamental & Novel & System things for Long-Horizon LLM Agent Training, Code Intelligence, and Autoresearch
+- Aim to build Fundamental & Novel & System things for Long-Horizon LLM Agent Training, Code Intelligence, and RSI (Recursive Self-Improvement)
 - Limit to < 2  first-author paper per year
 
 Besides Open-Sourcing, I also enjoy AI Competitions:

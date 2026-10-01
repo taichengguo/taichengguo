@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm Taicheng Guo
-- A research engineer than a researcher
+- Research & Engineering
 - Aim to build Fundamental & Novel & System things for Long-Horizon LLM Agent Training, Agent for AI Systems, and Agent-System Co-Design.
 - Limit to <= 1  first-author paper per year
 
